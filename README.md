@@ -17,19 +17,19 @@ The script **run_analysis.R** was tested on a Mac running OS X 10.9.2 and R vers
 
 ### Instructions
 
-1. Open the OS X Terminal application (Terminal.app) and create a new directory.
+1. Open the OS X Terminal application (Terminal.app) and create a new directory.  
    `mkdir courseproject`
-2. Change your working directory to the **courseproject** directory.
+2. Change your working directory to the **courseproject** directory.  
    `cd courseproject`
-3. Clone the GitHub.com repository [GettingAndCleaningDataProject](https://github.com/josemodena/GettingAndCleaningDataProject) to your local computer.
+3. Clone the GitHub.com repository [GettingAndCleaningDataProject](https://github.com/josemodena/GettingAndCleaningDataProject) to your local computer.  
    `git clone https://github.com/josemodena/GettingAndCleaningDataProject`
-4. Unzip the **raw data set**
+4. Unzip the **raw data set**.  
    `unzip UCI\ HAR\ Dataset.zip`
-5. Copy the R script **run_analysis.R** to the **UCI HAR Dataset** directory.
+5. Copy the R script **run_analysis.R** to the **UCI HAR Dataset** directory.  
    `cp run_analysis.R UCI\ HAR\ Dataset`
-6. Change your working directory to the **UCI HAR Dataset** directory.
+6. Change your working directory to the **UCI HAR Dataset** directory.  
    `cd UCI\ HAR\ Dataset`
-7. Run the R script **run_analysis.R**.
+7. Run the R script **run_analysis.R**.  
    `Rscript run_analysis.R`
 8. Wait for the R script to complete its execution.
 9. The tidy data set is now created in your working directory and it's called **tidy_dataset.txt**.
