@@ -1,11 +1,11 @@
 # --------------------------------------------------------------------------
 # Coursera - Getting and Clearning Data - Peer Assessment
 # 
-# This R script processes the data set from the
+# This R script processes the raw data set from the
 # Human Activity Recognition Using Smartphones experiment
 # (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-# and creates a tidy data set with the average of each variable for each
-# activity and each subject.
+# and creates a tidy data set with the average of each mean and standard
+# deviation variable for each activity and each subject.
 #
 # It assumes the original data set is downloaded from
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
