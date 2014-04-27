@@ -1,4 +1,4 @@
-## Coursera - Getting and Cleaning Data - Course Project
+## Getting and Cleaning Data - Course Project
 
 This README file explains how to use the R script [run_analysis.R](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/run_analysis.R) to transform the [raw data set](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/UCI%20HAR%20Dataset.zip) into the [tidy data set](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/tidy_dataset.txt).
 
