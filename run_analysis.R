@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------
-# Coursera - Getting and Clearning Data - Peer Assessment
+# Coursera - Getting and Cleaning Data - Peer Assessment
 # 
 # This R script processes the raw data set from the
 # Human Activity Recognition Using Smartphones experiment
