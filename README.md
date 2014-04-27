@@ -1,11 +1,10 @@
-Coursera - Getting and Cleaning Data - Course Project
-=====
+## Coursera - Getting and Cleaning Data - Course Project
 
 This README file explains how to use the R script [run_analysis.R](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/run_analysis.R) to transform the [raw data set](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/UCI%20HAR%20Dataset.zip) into the [tidy data set](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/tidy_dataset.txt).
 
 Please refer to [CodeBook.md](https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/CodeBook.md) for detailed information on the `raw data set`, the `tidy data set` and the operations performed by the script `run_analysis.R` to transform the former data set into the latter one.
 
-## Assumptions
+### Assumptions
 
 * The instructions below assume you already have R installed and working in your computer.
 * You have the package `reshape2` installed in your R.
@@ -13,7 +12,7 @@ Please refer to [CodeBook.md](https://github.com/josemodena/GettingAndCleaningDa
 * The script `run_analysis.R` is installed in and run from the folder `UCI HAR Dataset` per the instructions below.
 * The script `run_analysis.R` was tested on a Mac running OS X 10.9.2 and R version 3.0.3. The script was not tested in any other configuration.
 
-## Instructions
+### Instructions
 
 1. Download the `raw data set` using the link below and save it to a folder in your local drive.
 https://github.com/josemodena/GettingAndCleaningDataProject/blob/master/UCI%20HAR%20Dataset.zip
