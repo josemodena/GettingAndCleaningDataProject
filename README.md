@@ -8,12 +8,13 @@ Please refer to [CodeBook.md](https://github.com/josemodena/GettingAndCleaningDa
 
 The instructions below assume the following:
 
+* Your computer is a Mac running OS X.
 * You have **R** installed and working in your computer.
 * You have the package **reshape2** installed in your R.
 * You have **Git** installed and working in your computer.
 * No modifications are made to the **raw data set** files' contents or the folders they are extracted to.
 
-The script **run_analysis.R** was tested on a Mac running OS X 10.9.2 and R version 3.0.3. The script was not tested in any other configuration.
+The instructions below and the script **run_analysis.R** were tested on a Mac running OS X 10.9.2 and R version 3.0.3. The instructions and the script were not tested in any other configuration.
 
 ### Instructions
 
